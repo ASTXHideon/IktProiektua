@@ -1,0 +1,30 @@
+CSSResult Skip Results Iframe
+EDIT ON
+/*CSSn hau da nabigatzaileak irakurtzerik nahi ez dugun testua idazteko era.*/
+body {background-color: #135653;
+      color: #0f0519;
+      font-family: ubuntu;
+     }
+h1{background-color:#27a59f;
+  color: #2d1744;
+font-size:80px;
+text-align:center;
+margin:0px;}
+
+h3{color:white;} 
+/*Kolore zehatza aurkitu ahal izateko bilatzailean COLOR PICKER idaztea nahikoa da. Gustokoa aukeratu eta kopiatu, # ahaztu gabe!.*/
+img {width:50%;}
+#CCirudia{width:25%;}
+#profila{width:100%}
+#esteka{width:10%}
+/*ID zehatzak esleitu zaizkie elementu hauei*/
+a{color:#b5dbe0;}
+/*class sailkapenak esleitu zaizkie elementu hauei*/
+.BLOKtxikia{width:25%;
+            display:inline-block;
+            vertical-align:top;
+            background-color:#2d1744;
+            color:white;
+            padding:10px;}
+.BLOKhandia{width:70%;
+            display:inline-block;}
